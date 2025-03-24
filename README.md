@@ -1,0 +1,3 @@
+I think technology can transform plant care from a challenge into a seamless, rewarding experience. MySmart Plantis designed to provide real-time monitoring and automated watering, this system ensures your plants
+
+Indicates watering in progress with a glowing blue water pump. Monitors air quality with sensors and visually represents conditions using ambient NeoPixel lighting—green for fresh air air, yellow for moderate, and red for poor. Displays real-time room conditions on an OLED screen, including temperature, humidity, and soil moisture levels, providing instant feedback on the plant’s environment. Connects via the internetusing Adrafuit.io and Zapier, allowing remote monitoring.
